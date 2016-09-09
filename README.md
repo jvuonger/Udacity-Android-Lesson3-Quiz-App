@@ -1,4 +1,4 @@
-Udacity Android Nanodegree - Lesson 3 - Quiz App
+#Udacity Android Nanodegree - Lesson 3 - Quiz App
 
 **Project Overview**
 The goal is to create an educational app that quizzes a user about a certain topic of your choice. We want you to be creative about how you accomplish this. It’s up to you what the quiz questions will be about and how you want to present them to your user. (We recommend about 5-10 quiz questions for a reasonable scope of your app).
@@ -18,9 +18,10 @@ This project is about combining various ideas and skills we’ve been practicing
 --------------------------------------------------------------------------------
 
 **Quiz App : Logomeister**
+
 This quiz is designed to test your ability to recognize company logos.  
 
-**Questions**
+**Questions:**
 > 1. Which one of these logos falls under the Automotive sector? [ RadioButton ]
 2. Which one of these logos is the original Starbucks logo? [ RadioButton ]
 3. Check all the companies that offer a movie streaming service. [ CheckBox ]
@@ -28,3 +29,7 @@ This quiz is designed to test your ability to recognize company logos.
 5. Which one of these logos is no longer current? [ RadioButton ]
 6. What color is this logo supposed to be? [ EditText ]
 7. Name this company.  [ EditText ]
+
+--------------------------------------------------------------------------------
+
+**Sketch:**
