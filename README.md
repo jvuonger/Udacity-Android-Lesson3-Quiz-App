@@ -17,11 +17,11 @@ This project is about combining various ideas and skills we’ve been practicing
 
 --------------------------------------------------------------------------------
 
-** Quiz App : Logomeister **
+**Quiz App : Logomeister**
 This quiz is designed to test your ability to recognize company logos.  
 
-** Questions **
-1. Which one of these logos falls under the Automotive sector? [ RadioButton ]
+**Questions**
+> 1. Which one of these logos falls under the Automotive sector? [ RadioButton ]
 2. Which one of these logos is the original Starbucks logo? [ RadioButton ]
 3. Check all the companies that offer a movie streaming service. [ CheckBox ]
 4. What is the name of this company? [ EditText ]
