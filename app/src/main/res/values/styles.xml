@@ -8,11 +8,20 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="question_container_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@drawable/border</item>
+    </style>
+
     <style name="question_style">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textAppearance">?android:textAppearanceLarge</item>
         <item name="android:padding">5dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
     </style>
 
 </resources>

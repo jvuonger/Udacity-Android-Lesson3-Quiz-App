@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Quiz App</string>
-    <string name="question_1">Which one of these logos falls under the Automotive sector?</string>
-    <string name="question_2">Which one of these logos is the original Starbucks logo?</string>
-    <string name="question_3">Check all the companies that offer a movie streaming service.</string>
-    <string name="question_4">What is the name of this company?</string>
-    <string name="question_5">Which one of these logos is no longer current?</string>
-    <string name="question_6">What color is this logo supposed to be?</string>
-    <string name="question_7">Name this company:</string>
+    <string name="question_1">1. Which one of these logos falls under the Automotive sector?</string>
+    <string name="question_2">2. Which one of these logos is the original Starbucks logo?</string>
+    <string name="question_3">3. Check all the companies that offer a movie streaming service.</string>
+    <string name="question_4">4. What is the name of this company?</string>
+    <string name="question_5">5. Which one of these logos is no longer current?</string>
+    <string name="question_6">6. What color is this logo supposed to be?</string>
+    <string name="question_7">7. Name this company:</string>
 </resources>
