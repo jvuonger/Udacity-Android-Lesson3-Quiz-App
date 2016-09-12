@@ -32,4 +32,6 @@ This quiz is designed to test your ability to recognize company logos.
 
 --------------------------------------------------------------------------------
 
-**Sketch:**
+**Screenshots:**
+![](https://github.com/jvuonger/Udacity-Android-Lesson3-Quiz-App/raw/master/app/screenshot1.png)
+![](https://github.com/jvuonger/Udacity-Android-Lesson3-Quiz-App/raw/master/app/screenshot2.png)
